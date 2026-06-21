@@ -1,0 +1,1 @@
+Exc. $In[@bat-commands:/$I/$n/Tasa:[$In$:I="n:value:[/Label/Price]":If(Alert:~echo[n]:else=If(echo[n=[n=$In=(Tasa(n/EQ)=%K[n(pip=EQ~n):Entry=Minimal{$Cost"Operative"}]):$Volmen:[Line:cube$Boxz:[Line=$In(I:Line)(n:"$n["#value, #value/value, #$In:[K(n)=n], #K($n):$K=K/n"]:$I$Volumen(Vol=U/n)

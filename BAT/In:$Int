@@ -1,0 +1,6 @@
+$Script.bat
++In:$In
+Detectar Def=Int($=In)
+#I``$vol:n``
+#n``U(PIP):[(Equity:n)=$=(EQ/n)=U=(PIP/n):$Vol(Label, n)``
+#echo Fi=+In=U:n=If(PIP=EQ/n) for $n=Verdadero.
